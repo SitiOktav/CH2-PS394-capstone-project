@@ -21,3 +21,5 @@ in the command line, then run
 npm run start
 ```
 
+You could find the API Documentation for this project here:
+[API DOCUMENTATION](https://docs.google.com/document/d/1_TaMyry-y0MjxuYZYlbdVLyJ0Jc4ImUNfkv721VHIZY/edit?usp=sharing)
