@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">SeTravel</string>
+    <string name="place">surabaya</string>
+    <string name="logo">Logo</string>
+    <string name="regis">Sign Up</string>
+    <string name="create">Create Safe Travel Account</string>
+    <string name="noAccount">New to our Safe Travel?  </string>
+    <string name="haveAccount">Already have an safe travel Account? </string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="checkEmail">Invalid email address!</string>
+    <string name="password">Password</string>
+    <string name="cpassword">Confirm Password</string>
+    <string name="checkPassword">Invalid password!</string>
+    <string name="messageEmail">Please enter your email!</string>
+    <string name="messagePassword">Please enter your password!</string>
+    <string name="username">Username</string>
+    <string name="notFound">Unable to find your story</string>
+    <string name="addStory">Add Story</string>
+    <string name="loginError">Invalid Email or Password</string>
+    <string name="loginSuccess">Login successful</string>
+    <string name="registerError">Registration failed. User already exists or invalid email</string>
+    <string name="registerSuccess">Registration successful</string>
+    <string name="permissions">Permission not granted</string>
+    <string name="storyValidate">Please upload an image file or fill in the description</string>
+    <string name="storySuccess">Story added successfully</string>
+    <string name="storyError">Failed to add vibe story</string>
+    <string name="test">This is my experience learning mobile development at Dicoding</string>
+    <string name="se_ravel">se_ravel</string>
+    <string name="home">home</string>
+    <string name="fav">favorite</string>
+    <string name="logout">logout</string>
+
+    //category
+    <string name="budaya">budaya</string>
+    <string name="bahari">bahari</string>
+    <string name="cagar">cagar alam</string>
+    <string name="ibadah">tempat ibadah</string>
+    <string name="taman">taman hiburan</string>
+
+    <string name="detailm">detail makanan</string>
+    <string name="detaild">detail destinasi</string>
+    <string name="alamat">Jl.Ir Soekarno, No.12</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
